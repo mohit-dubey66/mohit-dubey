@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohit-dubey66
-- 👀 I’m interested in everything.
+- 👀 I’m interested in creating.
 - 🌱 I’m currently learning how to create.
 - 💞️ I’m looking to collaborate on knowledge.
 - 📫 How to reach me? Mail me.
