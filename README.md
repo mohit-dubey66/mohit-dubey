@@ -1,4 +1,4 @@
-
+[![mohitdubey's GitHub | Stats](https://stats.quine.sh/mohitdubey/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mohitdubey)
 
 <img align='center'  src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif'> </img>
 
